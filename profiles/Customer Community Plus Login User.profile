@@ -1943,11 +1943,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Location.VisitorAddressId</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>MessagingEndUser.AccountId</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -3080,9 +3075,6 @@
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Address-Formato Dirección</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>AlternativePaymentMethod-Alternative Payment Method Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -3200,9 +3192,6 @@
         <layout>EmailMessage-Email Message Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Employee-Formato Empleado</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Entitlement-Formato de asignación</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -3234,9 +3223,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Individual-Individual Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>InternalOrganizationUnit-Formato Unidad de organización interna</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Invoice-Invoice Layout</layout>
@@ -3457,15 +3443,6 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
         <object>Account</object>
-        <viewAllRecords>false</viewAllRecords>
-    </objectPermissions>
-    <objectPermissions>
-        <allowCreate>true</allowCreate>
-        <allowDelete>false</allowDelete>
-        <allowEdit>true</allowEdit>
-        <allowRead>true</allowRead>
-        <modifyAllRecords>false</modifyAllRecords>
-        <object>Address</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <objectPermissions>

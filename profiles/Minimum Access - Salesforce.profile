@@ -1943,11 +1943,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Location.VisitorAddressId</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>MessagingEndUser.AccountId</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -3077,9 +3072,6 @@
         <readable>false</readable>
     </fieldPermissions>
     <layoutAssignments>
-        <layout>Address-Formato Dirección</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>AssetAction-Formato Acción de activo</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -3092,16 +3084,10 @@
         <layout>AssociatedLocation-Formato Ubicación asociada</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Employee-Formato Empleado</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>FinanceBalanceSnapshot-Formato Instantánea de saldo financiero</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>FinanceTransaction-Formato Transacción financiera</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>InternalOrganizationUnit-Formato Unidad de organización interna</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>LegalEntity-Formato Entidad legal</layout>
